@@ -1,2 +1,2 @@
 Just a sample, nothing to see here.
-Are you lost?
+...Are you lost?
